@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi there 👋, I'm Prince</h1>
 <h3 align="center">I'm a post-graduated Information Technology student from IIIT Gwalior, a Software Engineer focused on growing as a Developer and who loves to code.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princee215&label=Profile%20views&color=0e75b6&style=flat" alt="princee215" /> </p>
 
